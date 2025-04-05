@@ -1,4 +1,4 @@
-#### This repo explore the following topics: 
+#### This repo explores the following topics: 
 1. Review of programming paradigms 
  - a. Imperative programming 
  - b. Object Oriented programming 
